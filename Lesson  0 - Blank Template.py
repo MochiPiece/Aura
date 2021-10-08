@@ -51,4 +51,3 @@ while not complete:
  
 # Close the window and quit.
 pygame.quit()
-© 2021 GitHub, Inc.
